@@ -215,7 +215,7 @@
                           </ui:CursorPosition>
                         </ui:Click.CursorPosition>
                         <ui:Click.Target>
-                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="8f4383f7-9f33-47bc-b4ba-3dc94bb545c5" InformativeScreenshot="5a2ead163cf3eda03fa4c422d82351a5" Selector="&lt;html app='firefox.exe' title='Mi Portal*' /&gt;&lt;webctrl aaname=' Mis Servicios' omit:parentid='root' tag='SPAN' /&gt;">
+                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="8f4383f7-9f33-47bc-b4ba-3dc94bb545c5" InformativeScreenshot="5a2ead163cf3eda03fa4c422d82351a5" Selector="&lt;html app='firefox.exe' title='PORTAL DE CLAVE FISCAL' /&gt;&lt;webctrl aaname='Ver todos' /&gt;">
                             <ui:Target.TimeoutMS>
                               <InArgument x:TypeArguments="x:Int32" />
                             </ui:Target.TimeoutMS>
@@ -237,7 +237,7 @@
                           </ui:CursorPosition>
                         </ui:Click.CursorPosition>
                         <ui:Click.Target>
-                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="45637fab-002b-46a3-9b02-76d4ba4c54dc" InformativeScreenshot="679854297667cf0a5c6ff44fef6c49ba" Selector="&lt;html app='firefox.exe' title='Mi Portal - Clave Fiscal' /&gt;&lt;webctrl aaname='Presentación de DDJJ y Pagos' innertext='Presentación de DDJJ y Pagos' title='Mi Portal - Clave Fiscal' /&gt;">
+                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="45637fab-002b-46a3-9b02-76d4ba4c54dc" InformativeScreenshot="679854297667cf0a5c6ff44fef6c49ba" Selector="&lt;html app='firefox.exe' title='PORTAL DE CLAVE FISCAL' /&gt;&lt;webctrl aaname='PRESENTACIÓN DE DDJJ Y PAGOS' /&gt;">
                             <ui:Target.TimeoutMS>
                               <InArgument x:TypeArguments="x:Int32" />
                             </ui:Target.TimeoutMS>
