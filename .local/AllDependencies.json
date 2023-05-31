@@ -19770,8 +19770,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Agustin Bustos\\.nuget\\packages\\": {},
-    "C:\\Users\\Agustin Bustos\\AppData\\Local\\UiPath\\NugetFallbackFolder": {}
+    "C:\\Users\\Agustin Bustos\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
@@ -19779,10 +19778,7 @@
       "projectName": "Generar VEPs_Windows",
       "projectPath": "F:\\Proyecto Uipath\\Bot-Generador-de-VEPs\\.local",
       "packagesPath": "C:\\Users\\Agustin Bustos\\.nuget\\packages\\",
-      "outputPath": "F:\\Proyecto Uipath\\Bot-Generador-de-VEPs\\.local",
-      "fallbackFolders": [
-        "C:\\Users\\Agustin Bustos\\AppData\\Local\\UiPath\\NugetFallbackFolder"
-      ]
+      "outputPath": "F:\\Proyecto Uipath\\Bot-Generador-de-VEPs\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
