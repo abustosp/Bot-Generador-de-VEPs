@@ -731,7 +731,7 @@
                                       <OutArgument x:TypeArguments="x:String">[NombreVEP]</OutArgument>
                                     </ui:GetValue.Value>
                                   </ui:GetValue>
-                                  <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" DisplayName="Uicación + Nombre de VEP" EmptyField="True" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TypeInto_3" SimulateType="True" Text="[row(&quot;Ubicación&quot;).ToString + NombreVEP]">
+                                  <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" DisplayName="Ubicación + Nombre de VEP" EmptyField="True" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TypeInto_3" SimulateType="True" Text="[row(&quot;Ubicación&quot;).ToString + NombreVEP]">
                                     <ui:TypeInto.Target>
                                       <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="aadfc8ca-a22e-4a34-b529-a3058e59fd75" InformativeScreenshot="5ded222edb8c5da33136336dbd4beb41" Selector="&lt;wnd app='firefox.exe' cls='#32770' title='Ingrese nombre de archivo a guardar…' /&gt;&lt;wnd aaname='Panel del explorador' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Nombre:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;">
                                         <ui:Target.TimeoutMS>
@@ -800,7 +800,7 @@
                                         </ui:Target>
                                       </ui:Click.Target>
                                     </ui:Click>
-                                    <Sequence DisplayName="Seleccionar metodo de Pago y Descarga" sap:VirtualizedContainerService.HintSize="450,81" sap2010:WorkflowViewState.IdRef="Sequence_78">
+                                    <Sequence DisplayName="Seleccionar metodo de Pago y Descarga" sap:VirtualizedContainerService.HintSize="450,1202" sap2010:WorkflowViewState.IdRef="Sequence_78">
                                       <Sequence.Variables>
                                         <Variable x:TypeArguments="x:String" Name="NombreVEP" />
                                       </Sequence.Variables>
@@ -1048,7 +1048,7 @@
                                           <OutArgument x:TypeArguments="x:String">[NombreVEP]</OutArgument>
                                         </ui:GetValue.Value>
                                       </ui:GetValue>
-                                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" DisplayName="Uicación + Nombre de VEP" EmptyField="True" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TypeInto_4" SimulateType="True" Text="[row(&quot;Ubicación&quot;).ToString + NombreVEP]">
+                                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" DisplayName="Ubicación + Nombre de VEP" EmptyField="True" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TypeInto_4" SimulateType="True" Text="[row(&quot;Ubicación&quot;).ToString + NombreVEP]">
                                         <ui:TypeInto.Target>
                                           <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="aadfc8ca-a22e-4a34-b529-a3058e59fd75" InformativeScreenshot="5ded222edb8c5da33136336dbd4beb41" Selector="&lt;wnd app='firefox.exe' cls='#32770' title='Ingrese nombre de archivo a guardar…' /&gt;&lt;wnd aaname='Panel del explorador' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Nombre:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;">
                                             <ui:Target.TimeoutMS>
@@ -1558,7 +1558,7 @@
                                       <OutArgument x:TypeArguments="x:String">[NombreVEP]</OutArgument>
                                     </ui:GetValue.Value>
                                   </ui:GetValue>
-                                  <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" DisplayName="Uicación + Nombre de VEP" EmptyField="True" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TypeInto_5" SimulateType="True" Text="[row(&quot;Ubicación&quot;).ToString + NombreVEP]">
+                                  <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" DisplayName="Ubicación + Nombre de VEP" EmptyField="True" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TypeInto_5" SimulateType="True" Text="[row(&quot;Ubicación&quot;).ToString + NombreVEP]">
                                     <ui:TypeInto.Target>
                                       <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="aadfc8ca-a22e-4a34-b529-a3058e59fd75" InformativeScreenshot="5ded222edb8c5da33136336dbd4beb41" Selector="&lt;wnd app='firefox.exe' cls='#32770' title='Ingrese nombre de archivo a guardar…' /&gt;&lt;wnd aaname='Panel del explorador' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Nombre:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;">
                                         <ui:Target.TimeoutMS>
@@ -1596,9 +1596,9 @@
                               </Sequence>
                             </If.Then>
                             <If.Else>
-                              <If Condition="[VEPVto = &quot;Manual&quot;]" sap:VirtualizedContainerService.HintSize="526,623" sap2010:WorkflowViewState.IdRef="If_13">
+                              <If Condition="[VEPVto = &quot;Manual&quot;]" sap:VirtualizedContainerService.HintSize="526,1744" sap2010:WorkflowViewState.IdRef="If_13">
                                 <If.Then>
-                                  <Sequence sap:VirtualizedContainerService.HintSize="492,441" sap2010:WorkflowViewState.IdRef="Sequence_77">
+                                  <Sequence sap:VirtualizedContainerService.HintSize="492,1562" sap2010:WorkflowViewState.IdRef="Sequence_77">
                                     <sap:WorkflowViewStateService.ViewState>
                                       <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -1627,14 +1627,14 @@
                                         </ui:Target>
                                       </ui:Click.Target>
                                     </ui:Click>
-                                    <Sequence DisplayName="Seleccionar metodo de Pago y Descarga" sap:VirtualizedContainerService.HintSize="450,81" sap2010:WorkflowViewState.IdRef="Sequence_94">
+                                    <Sequence DisplayName="Seleccionar metodo de Pago y Descarga" sap:VirtualizedContainerService.HintSize="450,1202" sap2010:WorkflowViewState.IdRef="Sequence_94">
                                       <Sequence.Variables>
                                         <Variable x:TypeArguments="x:String" Name="NombreVEP" />
                                       </Sequence.Variables>
                                       <sap:WorkflowViewStateService.ViewState>
                                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                                          <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
                                         </scg:Dictionary>
                                       </sap:WorkflowViewStateService.ViewState>
                                       <If Condition="[row(&quot;Medio de Pago&quot;).ToString =&quot;Pago mis cuentas&quot;]" DisplayName="If Pago mis Cuentas" sap:VirtualizedContainerService.HintSize="388,52" sap2010:WorkflowViewState.IdRef="If_46">
@@ -1875,7 +1875,7 @@
                                           <OutArgument x:TypeArguments="x:String">[NombreVEP]</OutArgument>
                                         </ui:GetValue.Value>
                                       </ui:GetValue>
-                                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" DisplayName="Uicación + Nombre de VEP" EmptyField="True" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TypeInto_6" SimulateType="True" Text="[row(&quot;Ubicación&quot;).ToString + NombreVEP]">
+                                      <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" SendWindowMessages="{x:Null}" Activate="True" DisplayName="Ubicación + Nombre de VEP" EmptyField="True" sap:VirtualizedContainerService.HintSize="388,135" sap2010:WorkflowViewState.IdRef="TypeInto_6" SimulateType="True" Text="[row(&quot;Ubicación&quot;).ToString + NombreVEP]">
                                         <ui:TypeInto.Target>
                                           <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="aadfc8ca-a22e-4a34-b529-a3058e59fd75" InformativeScreenshot="5ded222edb8c5da33136336dbd4beb41" Selector="&lt;wnd app='firefox.exe' cls='#32770' title='Ingrese nombre de archivo a guardar…' /&gt;&lt;wnd aaname='Panel del explorador' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Nombre:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;">
                                             <ui:Target.TimeoutMS>
