@@ -4,7 +4,7 @@ Bot para la generación Masiva de VEPs en el Servicio de 'DDJJ y pagos' de AFIP 
 
 ---
 
-El licenciamiento es con GPL (es decir que no se puede distribuir comercialmente, solamente GRATIS). y si se utiliza este el código, su derivado también debe ser distribuido abierta y gratuitamente. 
+El licenciamiento es bajo PL (es decir que no se puede distribuir comercialmente, solamente GRATIS). y si se utiliza este el código, su derivado también debe ser distribuido abierta y gratuitamente. 
 
 ---
 ## Ejecución del BOT
@@ -49,7 +49,7 @@ Los pasos para ejecutar el bot son los siguientes:
 
 - La utilización del bot corre bajo la responsabilidad del que lo ejecuta.
 
-- Si se comparte debe ser de manera GRATUITA, ya que la licencia es bajo GPL 3. También los bots derivados deben seguir la misma licencia gratuita.
+- Si se comparte debe ser de manera GRATUITA, ya que la licencia es bajo PL. También los bots derivados deben seguir la misma licencia gratuita.
 
 ---
 
