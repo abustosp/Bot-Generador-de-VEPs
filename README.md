@@ -35,9 +35,9 @@ Los pasos para ejecutar el bot son los siguientes:
    
    2. Descargarlo con la integración de GIT desde el Uipath.
 
-     - Si no aparece la opción de GIT en el Uipath se debe instalar el GIT desde las configuraciones de Uipath
+      - Si no aparece la opción de GIT en el Uipath se debe instalar el GIT desde las configuraciones de Uipath
 
-     ![Configuración de GIT](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Habilitar-GIT.png "Configuración de GIT")
+      ![Configuración de GIT](https://github.com/abustosp/Configuraciones/blob/master/Uipath/Habilitar-GIT.png "Configuración de GIT")
    
    3. Descargar el repositorio con GIT utilizando el comando `git clone https://github.com/abustosp/Bot-Generador-de-VEPs.git`
 
