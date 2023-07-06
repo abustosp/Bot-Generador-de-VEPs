@@ -1,5 +1,6 @@
 {
   "name": "Generar VEPs_Windows",
+  "projectId": "32c8dbe3-20d5-4c48-be90-c1be0ffa12f6",
   "description": "Generador de VEPS de acuerdo a un Excel",
   "main": "VEPS.xaml",
   "dependencies": {
