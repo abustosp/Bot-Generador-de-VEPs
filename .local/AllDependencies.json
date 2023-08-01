@@ -19770,14 +19770,14 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Agustin Bustos\\.nuget\\packages\\": {}
+    "C:\\Users\\ABP\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Generar VEPs_Windows",
       "projectName": "Generar VEPs_Windows",
       "projectPath": "F:\\Proyecto Uipath\\Bot-Generador-de-VEPs\\.local",
-      "packagesPath": "C:\\Users\\Agustin Bustos\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ABP\\.nuget\\packages\\",
       "outputPath": "F:\\Proyecto Uipath\\Bot-Generador-de-VEPs\\.local"
     },
     "frameworks": {
@@ -19804,7 +19804,7 @@
             "version": "[22.4.5, 22.4.5]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Agustin Bustos\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "B:\\ProgramFiles\\Uipath\\runtime.json"
       }
     },
     "runtimes": {
